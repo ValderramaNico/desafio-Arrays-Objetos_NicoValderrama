@@ -17,4 +17,4 @@
 ## "Isapre" en las consultas de 'dental' (punto 5).
 ## "Fonasa" en las consultas de 'traumatología' (punto 6).
 
-### Desplegando en el 'HTML' su nombre y previsión con un guión
+### Desplegando en el 'HTML' su nombre y previsión con un guión.
